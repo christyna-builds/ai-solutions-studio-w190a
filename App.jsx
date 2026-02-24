@@ -1013,3 +1013,4 @@ export default function AISolutionsStudio() {
     </div>
   );
 }
+export default App;
